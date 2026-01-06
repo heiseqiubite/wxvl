@@ -16182,5 +16182,16 @@
     "https://mp.weixin.qq.com/s/Bhoew2W09ywXd0MgfKxbDA": "476万损失背后的平台漏洞：17岁少年诈骗获刑，电商业务漏洞安全敲响警钟",
     "https://mp.weixin.qq.com/s/amcK4lonVyG5jWhbcQ9gpw": "存在了五年的 FortiOS SSL VPN 漏洞已在野实际利用",
     "https://mp.weixin.qq.com/s/rXV5eumRHNypwY2a9EqQ8w": "CISA提醒注意 WHILL Model C2 电动轮椅中的严重漏洞",
-    "https://mp.weixin.qq.com/s/vq6GHn-TgHtEdWN3X0UClw": "手把手CVE漏洞编号获取&漏洞提交"
+    "https://mp.weixin.qq.com/s/vq6GHn-TgHtEdWN3X0UClw": "手把手CVE漏洞编号获取&漏洞提交",
+    "https://mp.weixin.qq.com/s/PgWDOBPchd7uYQvKaWzYPg": "React2Shell 的 CVE-2025-55182 深入技术分析",
+    "https://mp.weixin.qq.com/s/n2b-fMLDoy_mQE0WvnY3aA": "SQL Server数据库，漏洞利用与数据勒索风险急剧增加",
+    "https://mp.weixin.qq.com/s/2AkHznQlN5LfMmQKos561w": "【已复现】jsPDF 曝高危漏洞：可窃取服务器密钥及配置文件 (CVE-2025-68428)",
+    "https://mp.weixin.qq.com/s/wh3DzY9jEZIuor4AUNl-NQ": "【高危漏洞预警】Dify API密钥明文暴露漏洞CVE-2025-67732",
+    "https://mp.weixin.qq.com/s/R6mb4g1jwcUDZFvju-GEPg": "Shiro漏洞利用工具 -- ShiroEXP（1月4日更新）",
+    "https://mp.weixin.qq.com/s/NHyWqcCC9CENaU3rUBnhrA": "CTF Pwn模块系列分享（三）：溢出基础与ret2text漏洞利用",
+    "https://mp.weixin.qq.com/s/adAQQHIeCpBuwzeGAVdeFg": "2025年度十大 Web 应用系统高危漏洞盘点",
+    "https://mp.weixin.qq.com/s/j9Z-OCPlBxwK0vv_DD_42w": "vCenter图形化漏洞利用工具",
+    "https://mp.weixin.qq.com/s/7N0LqDINUbL-32-__fUH_A": "汉王e脸通综合管理平台 getFirstEmp.do SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/1Tn8oNvlozv9ebsoZbelbQ": "漏洞挖掘实战系列（第2期）：Web专项（上） 注入类+文件类漏洞，吃透60%分值",
+    "https://mp.weixin.qq.com/s/hPnr3ktQtL4VHZ8zAOrHyA": "帆软bi反序列漏洞利用工具"
 }
