@@ -16261,5 +16261,9 @@
     "https://mp.weixin.qq.com/s/Arbdt-3erdFjj2-dcGxQvw": "攻击面大迁移：从网络漏洞到身份漏洞的变化",
     "https://mp.weixin.qq.com/s/RQPNqUdLF3_7OlbjS86WEA": "携手护程 感恩有你 | 携程SRC 2025年度漏洞贡献值排行榜奖励揭晓",
     "https://mp.weixin.qq.com/s/8iMo3jDtX2BHpdeY7fY9-w": "CVE-2025-6389 — WordPress 严重零日漏洞（远程代码执行）",
-    "https://mp.weixin.qq.com/s/Wnkc6clygIcIkvU181f-zQ": "【已复现】GNU Wget2存在目录穿越漏洞（CVE-2025-69194）"
+    "https://mp.weixin.qq.com/s/Wnkc6clygIcIkvU181f-zQ": "【已复现】GNU Wget2存在目录穿越漏洞（CVE-2025-69194）",
+    "https://mp.weixin.qq.com/s/M76PZ6lwInelr_bIiRJUBQ": "【接口漏洞第三章第三节】API漏洞挖掘实录：从GET到PATCH，我是如何实现“0元购”的",
+    "https://mp.weixin.qq.com/s/06uaTTcW9QZaNjQqbXA6Xw": "【接口漏洞第三章第二节】解锁API漏洞宝藏：从请求方法与内容类型切入",
+    "https://mp.weixin.qq.com/s/bcaHmWkL7Q5zaoWVBJEYpw": "CVE-2025-55182 - Next.js-Exploit-Tool 图形化综合利用工具",
+    "https://mp.weixin.qq.com/s/qHwAQd4YXnoSj6y8XZzs6g": "VulnHunter AI - 漏洞猎人：一款颠覆性的AI智能漏洞扫描工具"
 }
